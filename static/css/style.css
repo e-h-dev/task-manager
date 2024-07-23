@@ -18,3 +18,8 @@
     margin: 5px;
     line-height: 42px;
 }
+
+textarea{
+    border: none;
+    padding-top: 15px;
+}
